@@ -27,7 +27,7 @@
 
 .search-bar img{
     height: 50px;
-    width: 50px;
+    min-width: 50px;
     object-fit: contain;
     padding: 15px;
     border-radius: 50%;
